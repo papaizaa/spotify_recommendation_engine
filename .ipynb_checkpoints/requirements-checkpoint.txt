@@ -1,0 +1,4 @@
+numpy
+turicreate
+pandas 
+scikit-learn

@@ -1,0 +1,5 @@
+numpy
+turicreate
+pandas 
+scikit-learn
+requests
