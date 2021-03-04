@@ -3,3 +3,5 @@ turicreate
 pandas 
 scikit-learn
 requests
+rake-nltk
+glob
